@@ -28,6 +28,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eudk&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="eudk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eudk&show_icons=true&theme=dark&hide_border=true&locale=en" alt="eudk" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eudk&theme=dark" alt="eudk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eudk&theme=dark" alt="eudk" /></p>
+
+
+
+<h3 align="left">2024:</h3>
+<p 
+  align="left">   <a href="" target="_blank" rel="noreferrer"> <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="raspberrypi" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="solidity" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" width="40" height="40"/> </a>
