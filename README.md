@@ -1,7 +1,11 @@
+
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](google.com)
+
 <h1 align="center">Hi 👋, I'm eudk</h1>
 <h3 align="center">AP CS Student</h3>
-
+<img align="right" alt="Coding" width="300" src="https://guillaumekurkdjian.com/wp-content/uploads/2015/11/vectrex.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eudk&label=Profile%20views&color=000000&style=flat" alt="eudk" /> </p>
+
 
 <h3 align="left">🌱 I’m currently learning:</h3>
 <p align="left">
@@ -23,4 +27,8 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eudk&show_icons=true&theme=dark&locale=en" alt="eudk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eudk&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="eudk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eudk&show_icons=true&theme=dark&hide_border=true&locale=en" alt="eudk" /></p>
+
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eudk&theme=dark" alt="eudk" /></p>----> 
