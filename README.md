@@ -5,7 +5,7 @@
 <h3 align="center">AP CS Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eudk&label=Profile%20views&color=000000&style=flat" alt="eudk" /> </p>
 
-
+<h3 align="left">🔭 I’m currently working on An interactive BlackJack game  <a href="google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/animation/2023/02/09/05/44/05-44-09-18_512.gif" alt="csharp" width="40" height="40"/> </a>
 <h3 align="left">🌱 I’m currently learning:</h3>
 <p align="left">
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
