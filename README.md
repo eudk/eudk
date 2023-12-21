@@ -9,21 +9,7 @@
 
 <h4 align="left">Currently learning:</h4>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-  </a>
-  <a href="https://stability.ai/stablediffusion" target="_blank" rel="noreferrer">
-    <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/whkdgtzeetdnczlfayol" alt="stablediffusion" width="20" height="20"/>
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:274/0*iljmrUGVnoIIGtNi.png" width="20" height="20"/>
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://visualstudiomagazine.com/articles/2021/05/18/~/media/ECG/visualstudiomagazine/Images/2021/05/new_azure_a.ashx" width="20" height="20"/>
-  </a>
+ML, LLM
 </p>
 
 <h4 align="left">Languages/tools:</h4>
@@ -78,6 +64,21 @@
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/>
+  </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+  </a>
+  <a href="https://stability.ai/stablediffusion" target="_blank" rel="noreferrer">
+    <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/whkdgtzeetdnczlfayol" alt="stablediffusion" width="20" height="20"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:274/0*iljmrUGVnoIIGtNi.png" width="20" height="20"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://visualstudiomagazine.com/articles/2021/05/18/~/media/ECG/visualstudiomagazine/Images/2021/05/new_azure_a.ashx" width="20" height="20"/>
   </a>
 </p>
 
