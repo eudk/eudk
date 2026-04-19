@@ -33,7 +33,6 @@ IT security student focused on governance &  security fundamentals, and automati
 
 - AI agents and automation workflows 🦞🦞🦞🦞
 - Local LLM setups and self-hosted inference  
-- Small distributed systems and remote execution  
 - Tooling around modern AI development
 
 ---
