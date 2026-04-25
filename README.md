@@ -28,12 +28,13 @@ IT Security Student · Denmark
 ---
 
 ### About
-IT security student focused on governance &  security fundamentals, and automation.  
-#### Currently exploring
+IT security student 
+#### Exploring..
 
-- AI agents and automation workflows 🦞🦞🦞🦞
+- AI agents and automation workflows 
 - Local LLM setups and self-hosted inference  
 - Tooling around modern AI development
+- Security of AI agents: access control, data exposure, and controlled system design
 
 ---
 
